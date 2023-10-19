@@ -1,5 +1,5 @@
 # 6 Retail Trends You Can't Ignore in 2023
-![Alt text](relative/path/to/your/image.png)
+![Alt text](https://github.com/elvijsplugis/Elvijs-Plugis/blob/main/6%20Retail%20Trends%20You%20Can't%20Ignore%20in%202023/Elvijs%20Plugis%20-%20Grozeo.jpg)
 
 *By Elvijs Plugis, Chief Marketing Officer, Grozeo UK*
 
